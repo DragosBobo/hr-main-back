@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "4fCDQkLQmbysy+wSxa+7vYYjti15ZUpJnw5DY8c/WYHhqRNE+XYrApD6/Kxa+/hiZCw6Y1Lzju4ibPL5HfOCiA==",
+  "dgSpecHash": "2+Bq162hMIraEcSo518b+H0D/SMjjioLIXFSlKVdlhwsNxdyJYoOLFfQEZwTvCQP44l/80dN1v8S4Utx9sMxkw==",
   "success": true,
   "projectFilePath": "C:\\Users\\drago\\Documents\\HR-\\HR-main\\HrAppControllers\\HrAppControllers.csproj",
   "expectedPackageFiles": [
@@ -13,9 +13,9 @@
     "C:\\Users\\drago\\.nuget\\packages\\microsoft.aspnetcore.hosting.abstractions\\2.1.1\\microsoft.aspnetcore.hosting.abstractions.2.1.1.nupkg.sha512",
     "C:\\Users\\drago\\.nuget\\packages\\microsoft.aspnetcore.hosting.server.abstractions\\2.1.1\\microsoft.aspnetcore.hosting.server.abstractions.2.1.1.nupkg.sha512",
     "C:\\Users\\drago\\.nuget\\packages\\microsoft.aspnetcore.http\\2.1.1\\microsoft.aspnetcore.http.2.1.1.nupkg.sha512",
-    "C:\\Users\\drago\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.1.1\\microsoft.aspnetcore.http.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\drago\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\drago\\.nuget\\packages\\microsoft.aspnetcore.http.extensions\\2.1.1\\microsoft.aspnetcore.http.extensions.2.1.1.nupkg.sha512",
-    "C:\\Users\\drago\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.1.1\\microsoft.aspnetcore.http.features.2.1.1.nupkg.sha512",
+    "C:\\Users\\drago\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
     "C:\\Users\\drago\\.nuget\\packages\\microsoft.aspnetcore.mvc.abstractions\\2.1.3\\microsoft.aspnetcore.mvc.abstractions.2.1.3.nupkg.sha512",
     "C:\\Users\\drago\\.nuget\\packages\\microsoft.aspnetcore.mvc.core\\2.1.38\\microsoft.aspnetcore.mvc.core.2.1.38.nupkg.sha512",
     "C:\\Users\\drago\\.nuget\\packages\\microsoft.aspnetcore.responsecaching.abstractions\\2.1.1\\microsoft.aspnetcore.responsecaching.abstractions.2.1.1.nupkg.sha512",

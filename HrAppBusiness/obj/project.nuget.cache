@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "FleR2+SaesTpsWfnS7qC3W25bn5r1tn4fTWHRmECVFqQlSQrPiPLT+nGCJbw6K7CWzEfywLEjjpU/pgS7ommNQ==",
+  "dgSpecHash": "UjeBsV8vEtr7KrrfWVNhT1/DjEdMPSa/QoCxKSYDqns+ukNxxlnOmObZPKQRIaF7FBUBZnvq0ju7iDZ8t40U8w==",
   "success": true,
   "projectFilePath": "C:\\Users\\drago\\Documents\\HR-\\HR-main\\HrAppBusiness\\HrAppBusiness.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\drago\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\drago\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
+    "C:\\Users\\drago\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\drago\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
     "C:\\Users\\drago\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\drago\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\drago\\.nuget\\packages\\microsoft.data.sqlclient\\5.1.4\\microsoft.data.sqlclient.5.1.4.nupkg.sha512",

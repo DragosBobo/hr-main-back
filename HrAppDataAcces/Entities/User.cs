@@ -11,9 +11,9 @@ namespace HrAppDataAcces.Entities
         public Guid Id { get; set; }
         public string Username { get; set; }
 
-        private string Password { get; set; }
-        public int Id_AppUser { get; set; }
-        public APPUser APPUser { get; set; }
+        public string Password { get; set; }
+        public int? Id_AppUser { get; set; }
+        public APPUser? APPUser { get; set; }
 
     }
 }
