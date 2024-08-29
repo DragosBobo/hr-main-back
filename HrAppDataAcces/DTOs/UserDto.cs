@@ -8,6 +8,8 @@ namespace HrAppDataAcces.DTOs
 {
     public class UserDto
     {
+        public Guid Id { get; set; }
+        public Guid? FirmID { get; set; }
         public string Username { get; set; }
 
         private string Password { get; set; }
