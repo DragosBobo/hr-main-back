@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace HrAppControllers.UserController
 {
-        [ApiController]
+    [ApiController]
         [Route("api/[controller]")]
         public class UserController : ControllerBase
         {

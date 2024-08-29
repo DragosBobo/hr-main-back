@@ -7,6 +7,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using HrAppDataAcces.DTOs.Firm;
+using HrAppBusiness.FirmRepository;
 
 namespace HrAppControllers.FirmController
 {
@@ -15,21 +17,25 @@ namespace HrAppControllers.FirmController
     public class FirmController : ControllerBase
     {
         private readonly DataBaseContext _context;
+        private readonly IFirmRepository _firmRepository;
 
-        public FirmController(DataBaseContext context)
+        public FirmController(DataBaseContext context,IFirmRepository firmRepository)
         {
             _context = context;
+            _firmRepository = firmRepository;
         }
 
-        [HttpPost]
-        public async Task<ActionResult> CreateFirm()
+        [HttpPost("/create-firm")]
+        public async Task<ActionResult> CreateFirm([FromBody] FirmPostDto firm)
         {
-            return Ok();
+            var result = _firmRepository.CreateFirm(firm);
+            return Ok(result);
         }
         [HttpGet]
         public async Task<ActionResult> GetFirms()
         {
-            return Ok();
+            var result = await _firmRepository.GetFirms();
+            return Ok(result);
         }
     }
 }

@@ -1,4 +1,5 @@
 ﻿using HrAppDataAcces.Entities;
+using HrAppDataAcces.Entities.Revisal_entities;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -17,7 +18,7 @@ namespace HrAppDataAcces
         #region Tables
         public DataBaseContext() { }
         public DbSet<User> Users { get; set; }
-
+        public DbSet<AngajatorEntity> Firms { get; set;}
         #endregion
 
         #region notInMem 

@@ -23,5 +23,7 @@ namespace HrAppBusiness.UserRepository
             _context.SaveChanges();
             return Task.FromResult(entity);
         }
+
+      
     }
 }
