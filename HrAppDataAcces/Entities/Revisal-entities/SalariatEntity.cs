@@ -4,6 +4,7 @@ using System.Collections.Generic;
 namespace HrAppDataAcces.Entities.Revisal_entities
 {public class SalariatEntity : AuditableEntity
     {
+        public Guid FirmId { get; set; }
         public string Nume { get; set; }
         public string Prenume { get; set; }
         public string Cnp { get; set; }

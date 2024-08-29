@@ -19,6 +19,7 @@ namespace HrAppDataAcces
         public DataBaseContext() { }
         public DbSet<User> Users { get; set; }
         public DbSet<AngajatorEntity> Firms { get; set;}
+        public DbSet<SalariatEntity> Employees { get; set; }
         #endregion
 
         #region notInMem 

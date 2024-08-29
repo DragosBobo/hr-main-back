@@ -1,4 +1,6 @@
-﻿using HrAppDataAcces;
+﻿using HrAppBusiness.EmployeeRepository;
+using HrAppDataAcces;
+using HrAppDataAcces.DTOs.Employees;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
@@ -13,21 +15,25 @@ namespace HrAppControllers.EmployeeController
     public class EmployeeController : ControllerBase
     {
         private readonly DataBaseContext _context;
+        private readonly IEmployeeRepository _employeeRepository;
 
-        public EmployeeController(DataBaseContext context)
+        public EmployeeController(DataBaseContext context,IEmployeeRepository employeeRepository)
         {
             _context = context;
+            _employeeRepository = employeeRepository;
         }
 
         [HttpPost]
-        public async Task<ActionResult> CreateEmployee()
+        public async Task<ActionResult> CreateEmployee([FromBody] SalariatPostDto employee)
         {
-            return Ok();
+            var result = _employeeRepository.CreateEmployee(employee);
+            return Ok(result);
         }
         [HttpGet]
         public async Task<ActionResult> GetEmployees()
         {
-            return Ok();
+            var result = await _employeeRepository.GetEmployees();
+            return Ok(result);
         }
     }
 }
