@@ -14,11 +14,16 @@ namespace HrAppDataAcces
         public DataBaseContext(DbContextOptions<DataBaseContext> options) : base(options)
         {
         }
+        #region Tables
         public DataBaseContext() { }
         public DbSet<User> Users { get; set; }
-        public DbSet<APPUser> AplicationUsers { get; set; }
 
-        public DbSet<Role> Roles { get; set; }
+        #endregion
+
+        #region notInMem 
+        // public DbSet<APPUser> AplicationUsers { get; set; }
+
+        // public DbSet<Role> Roles { get; set; }
         //protected override void OnModelCreating(ModelBuilder modelBuilder)
         //{
         //    base.OnModelCreating(modelBuilder);
@@ -85,6 +90,8 @@ namespace HrAppDataAcces
         //    });
         //}
 
+        #endregion
 
-        }
+
+    }
 }
