@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "Oq9I6YKd6TnUjNDQZSl2dnvN2QiMQyNMvW7/33XvZeIesd+oH6+5Lh45lDGEmgjJencxZIpPJzB8YHd/Ic+KHA==",
+  "dgSpecHash": "aej2+nUfBusfgFzRMHO7BX8jj0s/Z8g4U65F5MbzBrH9PfREw4p6sPXrJ0O8WsRsZaaolIgJ+YCtDqSeNqbezQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\drago\\Documents\\HR-\\HR-main\\HrAppDataAcces\\HrAppDataAcces.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\drago\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\drago\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\drago\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\drago\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\drago\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
     "C:\\Users\\drago\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\drago\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.3\\microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",
     "C:\\Users\\drago\\.nuget\\packages\\microsoft.codeanalysis.common\\4.5.0\\microsoft.codeanalysis.common.4.5.0.nupkg.sha512",

@@ -44,6 +44,7 @@ C:\Users\drago\Documents\HR-\HR-main\HrAppBusiness\obj\Debug\net8.0\HrAppBusines
 C:\Users\drago\Documents\HR-\HR-main\HrAppBusiness\obj\Debug\net8.0\HrAppBusiness.AssemblyInfoInputs.cache
 C:\Users\drago\Documents\HR-\HR-main\HrAppBusiness\obj\Debug\net8.0\HrAppBusiness.AssemblyInfo.cs
 C:\Users\drago\Documents\HR-\HR-main\HrAppBusiness\obj\Debug\net8.0\HrAppBusiness.csproj.CoreCompileInputs.cache
+C:\Users\drago\Documents\HR-\HR-main\HrAppBusiness\obj\Debug\net8.0\HrAppBusiness.sourcelink.json
 C:\Users\drago\Documents\HR-\HR-main\HrAppBusiness\obj\Debug\net8.0\HrAppBus.642743CB.Up2Date
 C:\Users\drago\Documents\HR-\HR-main\HrAppBusiness\obj\Debug\net8.0\HrAppBusiness.dll
 C:\Users\drago\Documents\HR-\HR-main\HrAppBusiness\obj\Debug\net8.0\refint\HrAppBusiness.dll

@@ -50,6 +50,7 @@ C:\Users\drago\Documents\HR-\HR-main\HrAppControllers\obj\Debug\net8.0\HrAppCont
 C:\Users\drago\Documents\HR-\HR-main\HrAppControllers\obj\Debug\net8.0\HrAppControllers.AssemblyInfoInputs.cache
 C:\Users\drago\Documents\HR-\HR-main\HrAppControllers\obj\Debug\net8.0\HrAppControllers.AssemblyInfo.cs
 C:\Users\drago\Documents\HR-\HR-main\HrAppControllers\obj\Debug\net8.0\HrAppControllers.csproj.CoreCompileInputs.cache
+C:\Users\drago\Documents\HR-\HR-main\HrAppControllers\obj\Debug\net8.0\HrAppControllers.sourcelink.json
 C:\Users\drago\Documents\HR-\HR-main\HrAppControllers\obj\Debug\net8.0\HrAppCon.ECF20E8A.Up2Date
 C:\Users\drago\Documents\HR-\HR-main\HrAppControllers\obj\Debug\net8.0\HrAppControllers.dll
 C:\Users\drago\Documents\HR-\HR-main\HrAppControllers\obj\Debug\net8.0\refint\HrAppControllers.dll

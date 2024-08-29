@@ -43,6 +43,7 @@ C:\Users\drago\Documents\HR-\HR-main\HrAppDataAcces\obj\Debug\net8.0\HrAppDataAc
 C:\Users\drago\Documents\HR-\HR-main\HrAppDataAcces\obj\Debug\net8.0\HrAppDataAcces.AssemblyInfoInputs.cache
 C:\Users\drago\Documents\HR-\HR-main\HrAppDataAcces\obj\Debug\net8.0\HrAppDataAcces.AssemblyInfo.cs
 C:\Users\drago\Documents\HR-\HR-main\HrAppDataAcces\obj\Debug\net8.0\HrAppDataAcces.csproj.CoreCompileInputs.cache
+C:\Users\drago\Documents\HR-\HR-main\HrAppDataAcces\obj\Debug\net8.0\HrAppDataAcces.sourcelink.json
 C:\Users\drago\Documents\HR-\HR-main\HrAppDataAcces\obj\Debug\net8.0\HrAppDat.43E22ECA.Up2Date
 C:\Users\drago\Documents\HR-\HR-main\HrAppDataAcces\obj\Debug\net8.0\HrAppDataAcces.dll
 C:\Users\drago\Documents\HR-\HR-main\HrAppDataAcces\obj\Debug\net8.0\refint\HrAppDataAcces.dll

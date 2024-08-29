@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HrAppModels")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6041d301e65083f647725f5fdcd838a35e5f0b8")]
 [assembly: System.Reflection.AssemblyProductAttribute("HrAppModels")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HrAppModels")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

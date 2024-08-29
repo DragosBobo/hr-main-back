@@ -27,6 +27,7 @@ C:\Users\drago\Documents\HR-\HR-main\HrAppModels\obj\Debug\net8.0\HrAppModels.Ge
 C:\Users\drago\Documents\HR-\HR-main\HrAppModels\obj\Debug\net8.0\HrAppModels.AssemblyInfoInputs.cache
 C:\Users\drago\Documents\HR-\HR-main\HrAppModels\obj\Debug\net8.0\HrAppModels.AssemblyInfo.cs
 C:\Users\drago\Documents\HR-\HR-main\HrAppModels\obj\Debug\net8.0\HrAppModels.csproj.CoreCompileInputs.cache
+C:\Users\drago\Documents\HR-\HR-main\HrAppModels\obj\Debug\net8.0\HrAppModels.sourcelink.json
 C:\Users\drago\Documents\HR-\HR-main\HrAppModels\obj\Debug\net8.0\HrAppModels.dll
 C:\Users\drago\Documents\HR-\HR-main\HrAppModels\obj\Debug\net8.0\refint\HrAppModels.dll
 C:\Users\drago\Documents\HR-\HR-main\HrAppModels\obj\Debug\net8.0\HrAppModels.pdb
