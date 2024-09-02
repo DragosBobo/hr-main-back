@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HrAppDataAcces")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cdef66a8d62fc8140a20ba15e83689a45a14fb3c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f1aa889fd37b304d1d1c23df8bc9b45aed15b21")]
 [assembly: System.Reflection.AssemblyProductAttribute("HrAppDataAcces")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HrAppDataAcces")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

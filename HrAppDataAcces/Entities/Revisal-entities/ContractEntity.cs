@@ -13,5 +13,6 @@ namespace HrAppDataAcces.Entities.Revisal_entities
         public TipDurata TipDurata { get; set; }
         public TipNorma TipNorma { get; set; }
         public ContractStareEntity StareCurenta { get; set; }
+        public CorEntity Cor { get; set; }
     }
 }

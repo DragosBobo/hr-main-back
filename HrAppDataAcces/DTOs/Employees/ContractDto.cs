@@ -18,6 +18,7 @@ namespace HrAppDataAcces.DTOs.Employees
         public TipDurata TipDurata { get; set; }
         public TipNorma TipNorma { get; set; }
         public ContractStareDto? StareCurenta { get; set; }
+        public CorDto Cor { get; set; }
         public ContractEntity ToModel()
         {
             return new ContractEntity()
@@ -30,6 +31,7 @@ namespace HrAppDataAcces.DTOs.Employees
                 TipDurata = TipDurata,
                 TipNorma = TipNorma,
                 StareCurenta = StareCurenta.ToModel(),
+                Cor = Cor.ToModel(),
                 Id = Guid.NewGuid(),
             };
         }

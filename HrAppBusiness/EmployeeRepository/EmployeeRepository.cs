@@ -44,6 +44,11 @@ namespace HrAppBusiness.EmployeeRepository
                     TipContract = c.TipContract,
                     TipDurata = c.TipDurata,
                     TipNorma = c.TipNorma,
+                    Cor = new CorDto()
+                    {
+                        Cod = c.Cor.Cod,
+                        Versiune = c.Cor.Versiune
+                    },
                     StareCurenta = new ContractStareDto()
                     {
                         DataIncetareDetasare = c.StareCurenta.DataIncetareDetasare,
